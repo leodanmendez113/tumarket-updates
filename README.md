@@ -1,3 +1,3 @@
-# Puntico updates
+# tuMarket updates
 
-Instaladores firmados de Puntico para el actualizador automatico. No es codigo fuente.
+Instaladores firmados de tuMarket para el actualizador automatico. No es codigo fuente.
